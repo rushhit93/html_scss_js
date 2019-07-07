@@ -8,7 +8,7 @@
       "type": "chrome",
       "request": "launch",
       "name": "Launch Chrome against localhost",
-      "url": "http://localhost/frontend/html_scss_js/",
+      "url": "http://localhost/frontend/html_scss_js",
       "webRoot": "${workspaceFolder}"
     }
   ]
